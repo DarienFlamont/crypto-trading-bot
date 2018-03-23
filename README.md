@@ -1,6 +1,3 @@
-# README
+# Crypto-Bot
 
-This trading bot will trade cryptocurrencies automatically using a custom built algorithm to determine the buy and sell spots.  
-
-* Ruby version: 4.2.4
-* Rails version: 5.1.4
+A crypto trading bot that uses a custom built algorithm to determine optimal peaks to sell and dips to buy.  Crypto-Bot uses Ruby Version 4.2.4 and Rails version 5.1.4.
